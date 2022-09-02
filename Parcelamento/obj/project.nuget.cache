@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EZhv4/4KJCJTqva2gpKV7QKNuuVzsEA7KnaV+va5Yz187yQgwpVL7a6dm8PK+g4uU7g1kMfewD0nfzcYRZ3Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emell\\Videos\\Exercicio de Metodos\\Course\\Parcelamento\\Parcelamento\\Parcelamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emell\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\emell\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\emell\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\emell\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\emell\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\emell\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\emell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

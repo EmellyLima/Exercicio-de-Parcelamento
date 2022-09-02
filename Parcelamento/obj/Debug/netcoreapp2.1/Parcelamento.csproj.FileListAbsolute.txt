@@ -1,0 +1,13 @@
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\bin\Debug\netcoreapp2.1\Parcelamento.deps.json
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\bin\Debug\netcoreapp2.1\Parcelamento.runtimeconfig.json
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\bin\Debug\netcoreapp2.1\Parcelamento.runtimeconfig.dev.json
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\bin\Debug\netcoreapp2.1\Parcelamento.dll
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\bin\Debug\netcoreapp2.1\Parcelamento.pdb
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.csproj.AssemblyReference.cache
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.AssemblyInfoInputs.cache
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.AssemblyInfo.cs
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.csproj.CoreCompileInputs.cache
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.dll
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.pdb
+C:\Users\emell\Videos\Exercicio de Metodos\Course\Parcelamento\Parcelamento\obj\Debug\netcoreapp2.1\Parcelamento.genruntimeconfig.cache
