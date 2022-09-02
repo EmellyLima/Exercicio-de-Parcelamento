@@ -20,11 +20,12 @@ namespace Parcelamento
             int months = int.Parse(Console.ReadLine());
 
             Contract c = new Contract(number, date, value);
-            Contract contractService = new ContractService(new PaypalService());
+            ContractService contractService = new ContractService(new PaypalService());
+            contractService.ProcessContract(c, months);
 
 
-            Console.WriteLine("Instalment: "); 
-            foreach(Installment installment in c.installments)
+            Console.WriteLine("Instalment: ");
+            foreach (Installment installment in c.installments)
             {
                 Console.WriteLine(installment);
             }
